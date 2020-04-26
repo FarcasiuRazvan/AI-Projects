@@ -1,0 +1,6 @@
+number of runs: 1
+number of generations: 100
+local pheromone increase: 1.9
+global pheromone increase: 0.9
+evaporation coefficient: 0.05
+probability for best: 0.5
